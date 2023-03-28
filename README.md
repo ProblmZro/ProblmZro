@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0075FF&height=300&section=header&text=ProblmZro&fontSize=90&fontColor=D8D8D8)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0075FF&height=300&section=header&text=ProblmZro&fontSize=90&fontColor=ffffff)
 
 
 
