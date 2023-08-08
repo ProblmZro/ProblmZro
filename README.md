@@ -9,9 +9,9 @@
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"/>
 
-<br><br><br>
+<br>
 
 <h3>:computer: Github</h3>
 
-![ProblmZro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProblmZro&show_icons=true&theme=github_dark)
+![ProblmZro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProblmZro&show_icons=true&&hide=stars,issues&theme=github_dark)
 </div>
