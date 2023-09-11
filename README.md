@@ -17,8 +17,9 @@
 
 <br>
 
-<h3>🧠: Algorithm</h3>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=reozt599)](https://solved.ac/reozt599/)
+<h3>🧠 Algorithm</h3>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=reozt599)](https://solved.ac/reozt599)
 
 </div>
 
