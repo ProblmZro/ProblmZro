@@ -1,5 +1,5 @@
 ## Interests
-#### Computer Vision (esp. 3D Vision)
+#### Computer Vision
 
 ## Education
 #### University of Seoul - B.S. in Computer Science _(Mar. 2020 - Present | Seoul, Korea)_ 
