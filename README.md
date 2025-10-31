@@ -4,7 +4,7 @@
 ## Education
 #### University of Seoul - B.S. in Computer Science _(Mar. 2020 - Present | Seoul, Korea)_ 
 #### Boise State University - Exchange Student in Computer Science _(Spring 2025 | Idaho, USA)_
-#### SKT FLY AI - 7기 _(Jun. 2025 - Aug. 2025)_
+#### SKT FLY AI - 7기 CV 트랙_(Jun. 2025 - Aug. 2025)_
 #### NAVER 부스트캠프 AI Tech - 8기 _(Sep. 2025 - Present)_
 
 ## Experience
