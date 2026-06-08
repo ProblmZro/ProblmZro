@@ -10,7 +10,7 @@
 
 ## Key Projects
 
-### [우때](https://howaboutus.app)
+### [우때](https://uttae.app)
 협업형 AI 여행 서비스 (AI 개발)
 
 - LLM 오케스트레이션 구현
